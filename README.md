@@ -1,5 +1,5 @@
-# Name:Piritharaman R
-# Ref no:23013537
+# Name: Prasanna
+# Ref no:23003719-
 
 # Study of basic digital IC s and verification of truth tables for different logic gates realization:
 #  AIM:
