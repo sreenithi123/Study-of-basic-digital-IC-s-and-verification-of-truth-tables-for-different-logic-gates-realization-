@@ -1,5 +1,5 @@
-# Name: Prasanna
-# Ref no:23003719-
+# Name: sreenithi
+# Ref no:212223220109
 
 # Study of basic digital IC s and verification of truth tables for different logic gates realization:
 #  AIM:
